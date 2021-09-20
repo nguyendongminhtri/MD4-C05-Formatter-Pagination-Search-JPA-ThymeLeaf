@@ -12,7 +12,7 @@
     <span style="color: red" th:if="${#fields.hasErrors('name')}" th:error="*{name}">Name Error</span>
     <label>Age</label>
     <input type="text" th:field="*{age}"><br>
-    <span style="color: red" th:if="${#fields.hasErrors('age')}" th:error="*{age}">Name Error</span>
+    <span style="color: red" th:if="${#fields.hasErrors('age')}" th:error="*{age}">Age Error</span>
     <button type="submit">Create Product</button>
 </form>
 </body>
