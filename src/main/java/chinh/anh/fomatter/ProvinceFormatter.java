@@ -10,10 +10,12 @@ import java.util.Locale;
 import java.util.Optional;
 
 public class ProvinceFormatter implements Formatter<Province> {
+    //Đoạn này ko Autowired vì a sử dụng ở contructor bên dưới
     private IProvinceService provinceService;
 
     @Autowired
     public  ProvinceFormatter(IProvinceService provinceService) {
+
         this.provinceService = provinceService;
     }
 
