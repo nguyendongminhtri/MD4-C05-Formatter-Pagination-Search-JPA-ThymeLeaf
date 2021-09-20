@@ -1,0 +1,36 @@
+chinh/anh/model/Province.java
+ chinh.anh.model.Province
+chinh/anh/model/Customer.java
+ chinh.anh.model.Customer
+chinh/anh/service/IProvinceService.java
+ chinh.anh.service.IProvinceService
+chinh/anh/controller/CustomerController.java
+ chinh.anh.controller.CustomerController
+chinh/anh/service/ICustomerService.java
+ chinh.anh.service.ICustomerService
+chinh/anh/repository/ICustomerRepository.java
+ chinh.anh.repository.ICustomerRepository
+chinh/anh/repository/IProvinceRepository.java
+ chinh.anh.repository.IProvinceRepository
+chinh/anh/service/impl/ProvinceServiceImpl.java
+ chinh.anh.service.impl.ProvinceServiceImpl
+chinh/anh/service/impl/CustomerServiceImpl.java
+ chinh.anh.service.impl.CustomerServiceImpl
+chinh/anh/controller/ProvinceController.java
+ chinh.anh.controller.ProvinceController
+chinh/anh/fomatter/ProvinceFormatter.java
+ chinh.anh.fomatter.ProvinceFormatter
+chinh/anh/repository/IProductRepository.java
+ chinh.anh.repository.IProductRepository
+chinh/anh/service/impl/ProductServiceImpl.java
+ chinh.anh.service.impl.ProductServiceImpl
+chinh/anh/config/AppConfig.java
+ chinh.anh.config.AppConfig
+chinh/anh/model/Product.java
+ chinh.anh.model.Product
+chinh/anh/service/IProductService.java
+ chinh.anh.service.IProductService
+chinh/anh/config/WebConfig.java
+ chinh.anh.config.WebConfig
+chinh/anh/controller/ProductController.java
+ chinh.anh.controller.ProductController
